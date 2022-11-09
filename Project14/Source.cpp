@@ -47,6 +47,7 @@ public:
         cc.str1[1] = " Unit";
         cc.str2[1] = " Degree";
         cc.str3[1] = " Unit\n";
+        cc.str4[1] = "Unit\b";
         //Spherical
         cs.str1[0] = "R     = ";
         cs.str2[0] = "Theta = ";
