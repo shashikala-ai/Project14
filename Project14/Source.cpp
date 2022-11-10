@@ -39,7 +39,7 @@ public:
         cr.str1[1] = " Unit";
         cr.str2[1] = " Unit";
         cr.str3[1] = " Unit\n";
-        cr.str4[2] = " Unitiit\n";
+        cr.str4[2] = " Unitit\n";
         //Cylindrical
         cc.str1[0] = "Rho = ";
         cc.str2[0] = "Phi = ";
