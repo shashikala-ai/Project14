@@ -49,7 +49,7 @@ public:
         cc.str3[1] = " Unit\n";
         cc.str4[1] = "Unit\b";
         //Spherical
-        cs.str1[0] = "R     = ";
+        cs.str1[0] = "Riii    = ";
         cs.str2[0] = "Theta = ";
         cs.str3[0] = "Phi   = ";
         cs.str1[1] = " Unit";
